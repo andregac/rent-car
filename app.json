@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rent-car",
+    "slug": "rent-car",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
